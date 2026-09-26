@@ -46,13 +46,13 @@ The external sensor modules are connected to the PCB through their respective he
 
 ## Project Images
 ### Schematic
-![Schematic](images/air-pollution-schematic)
+![Schematic](images/air-pollution-schematic.png)
 
 ### PCB Layout
-![PCB Layout](images/air-pollution-pcb)
+![PCB Layout](images/air-pollution-pcb.png)
 
 ### 3D View
-![3D View](images/air-pollution-3d)
+![3D View](images/air-pollution-3d.png)
 
 ## What I Learned
 - PCB schematic design
