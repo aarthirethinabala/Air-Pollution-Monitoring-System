@@ -45,7 +45,14 @@ The completed PCB contains the Arduino interface connections, sensor connections
 The external sensor modules are connected to the PCB through their respective headers.
 
 ## Project Images
-Images of the schematic, PCB layout, and 3D visualization are included in the repository.
+### Schematic
+![Schematic](images/air-pollution-schematic)
+
+### PCB Layout
+![PCB Layout](images/air-pollution-pcb)
+
+### 3D View
+![3D View](images/air-pollution-3d)
 
 ## What I Learned
 - PCB schematic design
